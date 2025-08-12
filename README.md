@@ -35,19 +35,19 @@ Estudante dedicado de Desenvolvimento de Sistemas na ETEC Horácio, com foco em 
 - 🗄 Modelagem e gestão de Banco de Dados com **SQL Server**
 - 🔗 Desenvolvimento de **APIs REST** com C# e .NET
 - 🖥 Arquitetura e padrões para desenvolvimento **Full Stack**
-- 📱 Conceitos de **Responsive Design** e UX/UI
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenatoCBarbosa&theme=github_dark" alt="GitHub Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RenatoCBarbosa&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RenatoCBarbosa&theme=github_dark" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RenatoCBarbosa&theme=github_dark" alt="Top Languages by Commit"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RenatoCBarbosa&theme=github_dark&utcOffset=8" alt="Commits per Day"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenatoCBarbosa&theme=transparent" alt="GitHub Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RenatoCBarbosa&theme=transparent" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RenatoCBarbosa&theme=transparent" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RenatoCBarbosa&theme=transparent" alt="Top Languages by Commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RenatoCBarbosa&theme=transparent&utcOffset=8" alt="Commits per Day"/>
 </div>
+
 
 ---
 
@@ -56,5 +56,4 @@ Estudante dedicado de Desenvolvimento de Sistemas na ETEC Horácio, com foco em 
   <a href="mailto:renatobarbosa279@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <!-- Adicione outros links quando disponíveis -->
 </div>
