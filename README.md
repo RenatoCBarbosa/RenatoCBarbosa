@@ -12,7 +12,7 @@ Estudante dedicado de Desenvolvimento de Sistemas na ETEC Horácio, com foco em 
 ## 🛠 Tecnologias e Ferramentas
 
 ### Linguagens de Programação
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -23,10 +23,11 @@ Estudante dedicado de Desenvolvimento de Sistemas na ETEC Horácio, com foco em 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Banco de Dados
-![SQL Server]
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -47,7 +48,6 @@ Estudante dedicado de Desenvolvimento de Sistemas na ETEC Horácio, com foco em 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RenatoCBarbosa&theme=transparent" alt="Top Languages by Commit"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RenatoCBarbosa&theme=transparent&utcOffset=8" alt="Commits per Day"/>
 </div>
-
 
 ---
 
